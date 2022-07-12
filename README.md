@@ -1,2 +1,2 @@
-# CAD_System
-# C++
+# Snake
+# C++ QT game
